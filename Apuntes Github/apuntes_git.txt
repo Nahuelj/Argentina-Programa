@@ -1,0 +1,14 @@
+    COMANDOS DE GIT BASICOS
+
+git init comienza a hacer el seguimiento del directorio
+git add agrega el archivo al area de stagign area 
+git commit salva el archivo en el repo local 
+git status -s listado de archivos y directorios 
+cd moverse entre carpetas ingresar
+cd .. atras en carpetas 
+git commit -m "description"
+git reset --hard numero de commit sin comillas
+git commit -am "mensaje de commit y add" dos comandos en uno el commit y el add
+git commit --amed
+git pull trae cambios del servidor remoto a local 
+git remote set-url origin https://github.com/your/repository cambiar el enlace por si te equivocaste
