@@ -12,3 +12,4 @@ git commit -am "mensaje de commit y add" dos comandos en uno el commit y el add
 git commit --amed
 git pull trae cambios del servidor remoto a local 
 git remote set-url origin https://github.com/your/repository cambiar el enlace por si te equivocaste
+git log --onelie
