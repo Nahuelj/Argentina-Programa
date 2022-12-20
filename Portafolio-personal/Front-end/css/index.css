@@ -36,9 +36,11 @@ body{
     width: 130px;
     height: 130px;
     background-color: gold;
+    border-radius:5%;
 }
 #description-perfil{
     color: white;
+    margin: 15px;
 }
 /* description */
 /* barra de nav */
