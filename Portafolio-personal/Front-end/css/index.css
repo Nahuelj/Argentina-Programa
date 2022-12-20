@@ -9,6 +9,8 @@ body{
     width: 90%;
     margin: auto;
     height: 300px;
+    background-color: red;
+    margin-top: 100px;
 }
 
 #perfil{
